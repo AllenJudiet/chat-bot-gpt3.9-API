@@ -1,4 +1,4 @@
-# chat-bot
+#GTP3 chat-bot
 This is chat bot made with open AI's GTP3 algorithim
 IN ORDER TI RUN THIS CHAT BOT YOUU NEED AN ACOUNT IN OPEN AJ
 YOU WILL FIND YOUR API KEY IN OPEN AI DASH BOARD
